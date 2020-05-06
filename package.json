@@ -1,0 +1,23 @@
+{
+  "name": "test-prod-env",
+  "version": "1.0.0",
+  "description": "Automating Testing and Production environment through jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parker29/Test-Prod-ENV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parker29/Test-Prod-ENV/issues"
+  },
+  "homepage": "https://github.com/Parker29/Test-Prod-ENV#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
